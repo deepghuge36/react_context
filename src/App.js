@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-
+import Task from './Components/Task'
 function App() {
   return (
     <div>
-    <h1>d</h1>
+<Task/>
     </div>
   );
 }
